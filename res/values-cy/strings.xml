@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Gosodiadau LineageOS</string>
+    <string name="lineageparts_title">Gosodiadau AxiomOS</string>
     <string name="loading">Yn llwytho\u2026</string>
     <string name="dlg_ok">Iawn</string>
     <string name="cancel">Canslo</string>
@@ -497,7 +497,7 @@
     <string name="trust_feature_security_patches_value_new">Yn gyfredol</string>
     <string name="trust_feature_security_patches_value_medium">Rhai misoedd yn hen</string>
     <string name="trust_feature_security_patches_value_old">Yn hen</string>
-    <string name="trust_feature_security_patches_explain">Mae Google yn rhyddhau cyweiriadau diogelwch (security patches) yn fisol ar y cyd â darparwyr i fynd i\'r afael â namau y gellir cael eu hecsbloetio gan apiau maleisus er mwyn osgoi cyfyngiadau diogelwch ac achosi niwed parhaol i dy ddyfais. Mae cyweiriadau gan Google yn cael eu rhyddhau pob mis ond gall cyweiriadau i god dy ddyfais fel arfer ond cael eu gosod gan y gwneuthurwr. Wrth dy fod wedi gosod LineageOS i gymryd lle\'r fersiwn Android gwreiddiol ar dy ddyfais, mae\'r materion hyn yn dy ddwylo dy hun. I gadw dy ddyfais yn ddiogel, sicrha dy fod yn diweddaru dy adeiledd LineageOS i\'w gadw yn gyfredol ac, os yn berthnasol, sicrha bod y ddelwedd darparwr (vendor image) yn cael ei ddiweddaru i\'r un mwyaf diweddar a argymhellir gan LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Mae Google yn rhyddhau cyweiriadau diogelwch (security patches) yn fisol ar y cyd â darparwyr i fynd i\'r afael â namau y gellir cael eu hecsbloetio gan apiau maleisus er mwyn osgoi cyfyngiadau diogelwch ac achosi niwed parhaol i dy ddyfais. Mae cyweiriadau gan Google yn cael eu rhyddhau pob mis ond gall cyweiriadau i god dy ddyfais fel arfer ond cael eu gosod gan y gwneuthurwr. Wrth dy fod wedi gosod AxiomOS i gymryd lle\'r fersiwn Android gwreiddiol ar dy ddyfais, mae\'r materion hyn yn dy ddwylo dy hun. I gadw dy ddyfais yn ddiogel, sicrha dy fod yn diweddaru dy adeiledd LineageOS i\'w gadw yn gyfredol ac, os yn berthnasol, sicrha bod y ddelwedd darparwr (vendor image) yn cael ei ddiweddaru i\'r un mwyaf diweddar a argymhellir gan LineageOS.</string>
     <string name="trust_feature_encryption">Amgryptiad</string>
     <string name="trust_feature_encryption_value_enabled">Galluogwyd</string>
     <string name="trust_feature_encryption_value_nolock">Mae angen scrin cloi diogel</string>

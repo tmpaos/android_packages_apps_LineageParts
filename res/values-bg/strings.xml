@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Настройки LineageOS</string>
+    <string name="lineageparts_title">Настройки AxiomOS</string>
     <string name="loading">Зареждане\u2026</string>
     <string name="dlg_ok">ОK</string>
     <string name="cancel">Отмени</string>
@@ -496,7 +496,7 @@
     <string name="trust_feature_security_patches_value_new">Актуално</string>
     <string name="trust_feature_security_patches_value_medium">необновявано от няколко месеца</string>
     <string name="trust_feature_security_patches_value_old">Неактуална версия</string>
-    <string name="trust_feature_security_patches_explain">Защитните пакети се разпространяват ежемесечно от Google заедно с доставчиците на SoC, за да се поправят уязвимостите в системата, които могат да бъдат използвани от злонамерени приложения, който да заобиколят ограниченията за сигурност и да причинят необратими щети на вашето устройство. Корекциите, предоставени от Google, се прилагат всеки месец на всички поддържани устройства, но поправките за патентования код могат да се прилагат само от производителя на устройството ви. За да поддържате устройството си в безопасно състояние, уверете се, че използвате последната версия на LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Защитните пакети се разпространяват ежемесечно от Google заедно с доставчиците на SoC, за да се поправят уязвимостите в системата, които могат да бъдат използвани от злонамерени приложения, който да заобиколят ограниченията за сигурност и да причинят необратими щети на вашето устройство. Корекциите, предоставени от Google, се прилагат всеки месец на всички поддържани устройства, но поправките за патентования код могат да се прилагат само от производителя на устройството ви. За да поддържате устройството си в безопасно състояние, уверете се, че използвате последната версия на AxiomOS.</string>
     <string name="trust_feature_encryption">Криптиране</string>
     <string name="trust_feature_encryption_value_enabled">Активирано</string>
     <string name="trust_feature_encryption_value_nolock">Нуждае е се от заключване на екрана</string>

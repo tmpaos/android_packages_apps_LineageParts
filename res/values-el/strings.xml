@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Ρυθμίσεις LineageOS</string>
+    <string name="lineageparts_title">Ρυθμίσεις AxiomOS</string>
     <string name="loading">Φόρτωση\u2026</string>
     <string name="dlg_ok">ΟΚ</string>
     <string name="cancel">Ακύρωση</string>
@@ -508,7 +508,7 @@
     <string name="trust_feature_security_patches_value_new">Ενημερωμένη</string>
     <string name="trust_feature_security_patches_value_medium">Μερικούς μήνες παλιά</string>
     <string name="trust_feature_security_patches_value_old">Ξεπερασμένη</string>
-    <string name="trust_feature_security_patches_explain">Οι ενημερωμένες εκδόσεις ασφαλείας αποστέλλονται κάθε μήνα από την Google σε συνεργασία με τους κατασκευαστές SoC για την αντιμετώπιση σφαλμάτων τα οποία θα μπορούσαν να εκμεταλλευτούν από κακόβουλες εφαρμογές για να παρακάμψουν τους περιορισμούς ασφαλείας και να προκαλέσουν μόνιμη βλάβη στη συσκευή σας.\nΟι ενημερώσεις ασφαλείας που διατίθενται από την Google εφαρμόζονται για όλες τις υποστηριζόμενες συσκευές κάθε μήνα, αλλά οι ενημερώσεις ασφαλείας για κλειστό κώδικα μπορούν να εφαρμοστούν μόνο από τον κατασκευαστή της συσκευής σας.\nΓια να διατηρήσετε τη συσκευή σας ασφαλή, βεβαιωθείτε ότι χρησιμοποιείτε πάντα μια ενημερωμένη έκδοση του LineageOS και (ενδεχομένως) σιγουρευτείτε ότι η εικόνα \"vendor\" είναι ενημερωμένη στην πιο πρόσφατη έκδοση προτεινόμενη από το LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Οι ενημερωμένες εκδόσεις ασφαλείας αποστέλλονται κάθε μήνα από την Google σε συνεργασία με τους κατασκευαστές SoC για την αντιμετώπιση σφαλμάτων τα οποία θα μπορούσαν να εκμεταλλευτούν από κακόβουλες εφαρμογές για να παρακάμψουν τους περιορισμούς ασφαλείας και να προκαλέσουν μόνιμη βλάβη στη συσκευή σας.\nΟι ενημερώσεις ασφαλείας που διατίθενται από την Google εφαρμόζονται για όλες τις υποστηριζόμενες συσκευές κάθε μήνα, αλλά οι ενημερώσεις ασφαλείας για κλειστό κώδικα μπορούν να εφαρμοστούν μόνο από τον κατασκευαστή της συσκευής σας.\nΓια να διατηρήσετε τη συσκευή σας ασφαλή, βεβαιωθείτε ότι χρησιμοποιείτε πάντα μια ενημερωμένη έκδοση του AxiomOS και (ενδεχομένως) σιγουρευτείτε ότι η εικόνα \"vendor\" είναι ενημερωμένη στην πιο πρόσφατη έκδοση προτεινόμενη από το LineageOS.</string>
     <string name="trust_feature_encryption">Κρυπτογράφηση</string>
     <string name="trust_feature_encryption_value_enabled">Ενεργή</string>
     <string name="trust_feature_encryption_value_nolock">Απαιτεί ασφαλή οθόνη κλειδώματος</string>

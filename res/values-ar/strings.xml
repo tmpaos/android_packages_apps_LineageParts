@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">إعدادات LineageOS</string>
+    <string name="lineageparts_title">إعدادات AxiomOS</string>
     <string name="loading">تحميل\u2026</string>
     <string name="dlg_ok">موافق</string>
     <string name="cancel">إلغاء</string>
@@ -485,7 +485,7 @@
     <string name="trust_feature_security_patches_value_new">آخِر إصدار</string>
     <string name="trust_feature_security_patches_value_medium">بضعة أشهر قبل آخر تحديث</string>
     <string name="trust_feature_security_patches_value_old">غير محدّث</string>
-    <string name="trust_feature_security_patches_explain">تصدر تصحيحات الأمان شهريًا من Google بالتعاون مع موردي SoC لمعالجة العيوب التي يمكن استغلالها من قبل تطبيقات خبيثة لتجاوز القيود الأمنية ويتسبب في ذلك في ضرر دائم لجهازك. التحديثات التي أتاحتها Google تطبق كل شهر على جميع الأجهزة المدعومة، ولكن يمكن تطبيق تصحيحات رمز الملكية فقط من الشركة المصنعة لجهازك. للحفاظ على جعل جهازك آمن برجاء التأكد بأن اصدار LineageOS الخاص بك محدث باستمرار، وضمان تحديث (إذا كان ممكنًا) صورة موردك إلى آخر اصدار موصى به من LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">تصدر تصحيحات الأمان شهريًا من Google بالتعاون مع موردي SoC لمعالجة العيوب التي يمكن استغلالها من قبل تطبيقات خبيثة لتجاوز القيود الأمنية ويتسبب في ذلك في ضرر دائم لجهازك. التحديثات التي أتاحتها Google تطبق كل شهر على جميع الأجهزة المدعومة، ولكن يمكن تطبيق تصحيحات رمز الملكية فقط من الشركة المصنعة لجهازك. للحفاظ على جعل جهازك آمن برجاء التأكد بأن اصدار AxiomOS الخاص بك محدث باستمرار، وضمان تحديث (إذا كان ممكنًا) صورة موردك إلى آخر اصدار موصى به من LineageOS.</string>
     <string name="trust_feature_encryption">التشفير</string>
     <string name="trust_feature_encryption_value_enabled">مفعل</string>
     <string name="trust_feature_encryption_value_nolock">يحتاج شاشة قفل آمنة</string>

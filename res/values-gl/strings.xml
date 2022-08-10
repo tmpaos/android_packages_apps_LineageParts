@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Axustes de LineageOS</string>
+    <string name="lineageparts_title">Axustes de AxiomOS</string>
     <string name="loading">Cargando\u2026</string>
     <string name="dlg_ok">ACEPTAR</string>
     <string name="cancel">Cancelar</string>
@@ -496,7 +496,7 @@
     <string name="trust_feature_security_patches_value_new">Actualizada</string>
     <string name="trust_feature_security_patches_value_medium">Desactualizada desde hai uns meses</string>
     <string name="trust_feature_security_patches_value_old">Desactualizada</string>
-    <string name="trust_feature_security_patches_explain">Os parches de seguranza son liberados mensualmente por Google coa cooperación dos fabricantes de SoC para corrixir fallos que poden ser aproveitados por aplicacións maliciosas para saltar as restricións de seguranza e causar danos permanentes o teu dispositivo. Os parches dispoñíbeis dende Google aplícanse mensualmente en tódolos dispositivos compatíbeis, agás os de código propietario que serán aplicados polo fabricante do teu dispositivo. Para manter o teu dispositivo seguro verifica que a versión do LineageOS está actualizada, e (se aplica) asegúrate que a imaxe do teu fabricante está actualizada á máis recente recomendada polo equipo do LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Os parches de seguranza son liberados mensualmente por Google coa cooperación dos fabricantes de SoC para corrixir fallos que poden ser aproveitados por aplicacións maliciosas para saltar as restricións de seguranza e causar danos permanentes o teu dispositivo. Os parches dispoñíbeis dende Google aplícanse mensualmente en tódolos dispositivos compatíbeis, agás os de código propietario que serán aplicados polo fabricante do teu dispositivo. Para manter o teu dispositivo seguro verifica que a versión do AxiomOS está actualizada, e (se aplica) asegúrate que a imaxe do teu fabricante está actualizada á máis recente recomendada polo equipo do LineageOS.</string>
     <string name="trust_feature_encryption">Cifrado</string>
     <string name="trust_feature_encryption_value_enabled">Activado</string>
     <string name="trust_feature_encryption_value_nolock">Precisas dunha pantalla de bloqueo segura</string>

@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS ezarpenak</string>
+    <string name="lineageparts_title">AxiomOS ezarpenak</string>
     <string name="loading">Kargatzen\u2026</string>
     <string name="dlg_ok">Ados</string>
     <string name="cancel">Utzi</string>
@@ -457,7 +457,7 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
     <string name="trust_feature_selinux_explain">SELinux-ek prozesuek zeintsu fitxategi edo bide atzitzeko baimena duten agintzen du.\nHonek aplikazio eta zerbitzuek ez dagozkien fitxategiak atzitu ahal izatea ekiditen du: honela potentzialki gaiztoa den prozesu batek sarbide mugatua du eta zure segurtasuna babesten da.</string>
     <string name="trust_feature_security_patches">Android segurtasun partxeak</string>
     <string name="trust_feature_security_patches_value_base">Plataforma: %1$s\nEkoizlea: %2$s</string>
-    <string name="trust_feature_security_patches_explain">Segurtasun partxeak hilabetero kaleratzen ditu Googlek ekoizleekin elkarlanean, aplikazio gaizkileek segurtasun mugak inguratzeko eta gailuan kalte iraunkorra sortzeko erabili ditzaketen ahuleziak konpontzeko. Googlek argitaratutako partxeak onartutako gailu guztietan aplikatzen dira hilabetero, baina jabeduna den kodean ekoizleak besterik ezin du aplikatu partxea. Gailua seguru mantentzeko egiaztatu LineageOS beti egunean dagoela eta (baldin eta badagokio) egiaztatu zure ekoizlearen irudia LineageOS-ek aholkatutako azkenera eguneratu dela.</string>
+    <string name="trust_feature_security_patches_explain">Segurtasun partxeak hilabetero kaleratzen ditu Googlek ekoizleekin elkarlanean, aplikazio gaizkileek segurtasun mugak inguratzeko eta gailuan kalte iraunkorra sortzeko erabili ditzaketen ahuleziak konpontzeko. Googlek argitaratutako partxeak onartutako gailu guztietan aplikatzen dira hilabetero, baina jabeduna den kodean ekoizleak besterik ezin du aplikatu partxea. Gailua seguru mantentzeko egiaztatu AxiomOS beti egunean dagoela eta (baldin eta badagokio) egiaztatu zure ekoizlearen irudia LineageOS-ek aholkatutako azkenera eguneratu dela.</string>
     <string name="trust_feature_encryption">Zifratzea</string>
     <string name="trust_feature_encryption_value_enabled">Gaituta</string>
     <string name="trust_feature_encryption_value_nolock">Blokeo-pantaila seguru bat behar du</string>

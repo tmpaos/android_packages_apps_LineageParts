@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Paramètres de LineageOS</string>
+    <string name="lineageparts_title">Paramètres de AxiomOS</string>
     <string name="loading">Chargement\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Annuler</string>
@@ -487,7 +487,7 @@
     <string name="trust_feature_security_patches_value_new">À jour</string>
     <string name="trust_feature_security_patches_value_medium">Obsolète de quelques mois</string>
     <string name="trust_feature_security_patches_value_old">Obsolète</string>
-    <string name="trust_feature_security_patches_explain">Les correctifs de sécurité sont publiés chaque mois par Google, en coopération avec les fournisseurs de SoC. Ils permettent de corriger des failles que des applications malveillantes sont susceptibles d\'exploiter pour contourner les restrictions de sécurité et endommager votre appareil de façon définitive. Les correctifs fournis par Google sont appliqués chaque mois à tous les appareils compatibles, mais ceux concernant le code propriétaire ne peuvent l\'être que par le fabricant de votre appareil. Pour garantir la sécurité de votre appareil, veillez à toujours utiliser la dernière version de LineageOS et, le cas échéant, mettez à jour votre fichier vendor.img afin qu\'il corresponde à la dernière version recommandée par LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Les correctifs de sécurité sont publiés chaque mois par Google, en coopération avec les fournisseurs de SoC. Ils permettent de corriger des failles que des applications malveillantes sont susceptibles d\'exploiter pour contourner les restrictions de sécurité et endommager votre appareil de façon définitive. Les correctifs fournis par Google sont appliqués chaque mois à tous les appareils compatibles, mais ceux concernant le code propriétaire ne peuvent l\'être que par le fabricant de votre appareil. Pour garantir la sécurité de votre appareil, veillez à toujours utiliser la dernière version de AxiomOS et, le cas échéant, mettez à jour votre fichier vendor.img afin qu\'il corresponde à la dernière version recommandée par LineageOS.</string>
     <string name="trust_feature_encryption">Chiffrement</string>
     <string name="trust_feature_encryption_value_enabled">Activé</string>
     <string name="trust_feature_encryption_value_nolock">Écran de verrouillage sécurisé requis</string>

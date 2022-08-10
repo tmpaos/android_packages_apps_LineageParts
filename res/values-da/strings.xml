@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS Indstillinger</string>
+    <string name="lineageparts_title">AxiomOS Indstillinger</string>
     <string name="loading">Indlæser\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Annuller</string>
@@ -462,7 +462,7 @@
     <string name="trust_feature_selinux_value_disabled">Deaktiveret</string>
     <string name="trust_feature_security_patches">Android-sikkerhedsrettelser</string>
     <string name="trust_feature_security_patches_value_base">Platform: %1$s\nProducent: %2$s</string>
-    <string name="trust_feature_security_patches_explain">Sikkerhedsrettelser frigives månedligt af Google i samarbejde med SoC-leverandører, for at adressere fejl, som kunne blive udnyttet af ondsindede apps, til at omgå sikkerhedsrestriktioner, og forårsage permanent skade på din enhed. Rettelser gjort tilgængelige af Google anvendes hver måned, på alle understøttede enheder, men rettelser til proprietær kode kun kan anvendes af din enheds producent. Sørg for at dit LineageOS-build altid er ajour, for at holde din enhed sikker, og (hvis gældende) sikre at dit producent-billede er opdateret til den seneste, som anbefales af LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Sikkerhedsrettelser frigives månedligt af Google i samarbejde med SoC-leverandører, for at adressere fejl, som kunne blive udnyttet af ondsindede apps, til at omgå sikkerhedsrestriktioner, og forårsage permanent skade på din enhed. Rettelser gjort tilgængelige af Google anvendes hver måned, på alle understøttede enheder, men rettelser til proprietær kode kun kan anvendes af din enheds producent. Sørg for at dit AxiomOS-build altid er ajour, for at holde din enhed sikker, og (hvis gældende) sikre at dit producent-billede er opdateret til den seneste, som anbefales af LineageOS.</string>
     <string name="trust_category_tools">Privatliv</string>
     <string name="trust_notification_alerts_title">Sikkerhedsadvarsler</string>
     <string name="trust_warnings_selinux">SELinux status</string>

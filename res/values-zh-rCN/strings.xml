@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS 设置</string>
+    <string name="lineageparts_title">AxiomOS 设置</string>
     <string name="loading">正在加载\u2026</string>
     <string name="dlg_ok">确定</string>
     <string name="cancel">取消</string>
@@ -503,7 +503,7 @@
     <string name="trust_feature_security_patches_value_new">已是最新</string>
     <string name="trust_feature_security_patches_value_medium">数月未更新</string>
     <string name="trust_feature_security_patches_value_old">已过时</string>
-    <string name="trust_feature_security_patches_explain">安全补丁由 Google 和 SoC 厂商每月发布，用以修复可能会被恶意应用利用、绕过安全限制对你的设备造成暂时或永久损坏的缺陷。\n平台补丁每个月都会统一更新，但厂商补丁只能每次从 OEM 取得。\n要保证您的设备安全，请使用最新版本的 LineageOS。</string>
+    <string name="trust_feature_security_patches_explain">安全补丁由 Google 和 SoC 厂商每月发布，用以修复可能会被恶意应用利用、绕过安全限制对你的设备造成暂时或永久损坏的缺陷。\n平台补丁每个月都会统一更新，但厂商补丁只能每次从 OEM 取得。\n要保证您的设备安全，请使用最新版本的 AxiomOS。</string>
     <string name="trust_feature_encryption">加密</string>
     <string name="trust_feature_encryption_value_enabled">已启用</string>
     <string name="trust_feature_encryption_value_nolock">需要设置安全的屏幕锁定</string>

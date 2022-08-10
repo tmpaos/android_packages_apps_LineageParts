@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Ajustes de LineageOS</string>
+    <string name="lineageparts_title">Ajustes de AxiomOS</string>
     <string name="loading">Cargando\u2026</string>
     <string name="dlg_ok">Aceptar</string>
     <string name="cancel">Cancelar</string>
@@ -468,7 +468,7 @@
     <string name="trust_feature_selinux_explain">SELinux dicta qué procesos tienen acceso a qué archivos en el dispositivo.\n Esto evita que las aplicaciones y servicios tengan acceso a archivos con los que no deben tratar: de esta manera, un proceso malicioso tiene acceso limitado, por lo que su seguridad se mantiene.</string>
     <string name="trust_feature_security_patches">Parches de seguridad de Android</string>
     <string name="trust_feature_security_patches_value_base">Plataforma: %1$s\nProveedor: %2$s</string>
-    <string name="trust_feature_security_patches_explain">Google publica mensualmente parches de seguridad en colaboración con los proveedores de SoC para solucionar los fallos que podrían ser explotados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños permanentes al dispositivo. Los parches puestos a disposición por Google se aplican todos los meses en todos los dispositivos compatibles, pero los parches para el código propietario sólo pueden ser aplicados por el fabricante del dispositivo. Para mantener el dispositivo seguro, asegúrese de que su compilación LineageOS esté siempre actualizada, y (si corresponde) asegúrese de que su imagen de vendedor esté actualizada a la última recomendada por LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Google publica mensualmente parches de seguridad en colaboración con los proveedores de SoC para solucionar los fallos que podrían ser explotados por aplicaciones maliciosas para eludir las restricciones de seguridad y causar daños permanentes al dispositivo. Los parches puestos a disposición por Google se aplican todos los meses en todos los dispositivos compatibles, pero los parches para el código propietario sólo pueden ser aplicados por el fabricante del dispositivo. Para mantener el dispositivo seguro, asegúrese de que su compilación AxiomOS esté siempre actualizada, y (si corresponde) asegúrese de que su imagen de vendedor esté actualizada a la última recomendada por LineageOS.</string>
     <string name="trust_feature_encryption">Cifrado</string>
     <string name="trust_feature_encryption_value_enabled">Activado</string>
     <string name="trust_feature_encryption_value_nolock">Necesita una pantalla de bloqueo segura</string>

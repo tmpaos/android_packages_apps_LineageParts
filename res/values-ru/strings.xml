@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">Настройки LineageOS</string>
+    <string name="lineageparts_title">Настройки AxiomOS</string>
     <string name="loading">Загрузка\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Отмена</string>
@@ -503,7 +503,7 @@
     <string name="trust_feature_security_patches_value_new">актуален</string>
     <string name="trust_feature_security_patches_value_medium">устарел на несколько месяцев</string>
     <string name="trust_feature_security_patches_value_old">устарел</string>
-    <string name="trust_feature_security_patches_explain">Исправления безопасности ежемесячно выпускаются Google совместно с поставщиками SoC для устранения уязвимостей в системе, которые могут быть использованы вредоносными приложениями для обхода ограничений безопасности и нанесения необратимого повреждения вашему устройству. Исправления, предоставляемые Google, применяются каждый месяц на всех поддерживаемых устройствах, но исправления для проприетарного кода могут применяться только производителем вашего устройства. Для поддержания вашего устройства в безопасном состоянии, убедитесь, что ваша сборка LineageOS актуальна ​​и (если применимо) образ производителя обновлен до последней версии, рекомендованной LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">Исправления безопасности ежемесячно выпускаются Google совместно с поставщиками SoC для устранения уязвимостей в системе, которые могут быть использованы вредоносными приложениями для обхода ограничений безопасности и нанесения необратимого повреждения вашему устройству. Исправления, предоставляемые Google, применяются каждый месяц на всех поддерживаемых устройствах, но исправления для проприетарного кода могут применяться только производителем вашего устройства. Для поддержания вашего устройства в безопасном состоянии, убедитесь, что ваша сборка AxiomOS актуальна ​​и (если применимо) образ производителя обновлен до последней версии, рекомендованной LineageOS.</string>
     <string name="trust_feature_encryption">Шифрование</string>
     <string name="trust_feature_encryption_value_enabled">Включено</string>
     <string name="trust_feature_encryption_value_nolock">Необходима защита экрана блокировки</string>

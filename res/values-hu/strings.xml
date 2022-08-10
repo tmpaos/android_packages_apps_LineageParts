@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS - Beállítások</string>
+    <string name="lineageparts_title">AxiomOS - Beállítások</string>
     <string name="loading">Betöltés\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Mégse</string>
@@ -495,7 +495,7 @@
     <string name="trust_feature_security_patches_value_new">Naprakész</string>
     <string name="trust_feature_security_patches_value_medium">Pár hónapja elavult</string>
     <string name="trust_feature_security_patches_value_old">Elavult</string>
-    <string name="trust_feature_security_patches_explain">Az Androidos biztonsági hibajavító csomagok havonta jelennek meg a Google és a SoC gyártók jóvoltából, a rendszerben fellépő olyan hibák kezelésére, amelyeket a rosszindulatú alkalmazások kihasználhatnak a biztonsági korlátozások megkerülésére, és ideiglenesen vagy tartósan károsíthatják a készüléket.\nMíg a platformjavítások havonta frissülnek globálisan, a gyártói javításokat csak időnként frissítik az OEM-eken keresztül.\nA készülékbiztonság megőrzéséhez győződjön meg róla, hogy az Ön LineageOS kiadása mindig naprakész-e, és (ha elérhető) biztosítja, hogy a gyártói képet a LineageOS által ajánlott legfrissebbre frissítse.</string>
+    <string name="trust_feature_security_patches_explain">Az Androidos biztonsági hibajavító csomagok havonta jelennek meg a Google és a SoC gyártók jóvoltából, a rendszerben fellépő olyan hibák kezelésére, amelyeket a rosszindulatú alkalmazások kihasználhatnak a biztonsági korlátozások megkerülésére, és ideiglenesen vagy tartósan károsíthatják a készüléket.\nMíg a platformjavítások havonta frissülnek globálisan, a gyártói javításokat csak időnként frissítik az OEM-eken keresztül.\nA készülékbiztonság megőrzéséhez győződjön meg róla, hogy az Ön AxiomOS kiadása mindig naprakész-e, és (ha elérhető) biztosítja, hogy a gyártói képet a LineageOS által ajánlott legfrissebbre frissítse.</string>
     <string name="trust_feature_encryption">Titkosítás</string>
     <string name="trust_feature_encryption_value_enabled">Engedélyezve</string>
     <string name="trust_feature_encryption_value_nolock">Biztonságos zárolási képernyő szükséges</string>

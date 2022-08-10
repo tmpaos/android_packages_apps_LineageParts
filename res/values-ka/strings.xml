@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS პარამეტრები</string>
+    <string name="lineageparts_title">AxiomOS პარამეტრები</string>
     <string name="loading">იტვირთება\u2026</string>
     <string name="dlg_ok">კარგი</string>
     <string name="cancel">გაუქმება</string>
@@ -505,7 +505,7 @@
     <string name="trust_feature_security_patches_value_new">განახლებულია</string>
     <string name="trust_feature_security_patches_value_medium">რამდენიმე თვეა გასაახლებელია</string>
     <string name="trust_feature_security_patches_value_old">გასაახლებელია</string>
-    <string name="trust_feature_security_patches_explain">უსაფრთხოების შესწორებებს Google ყოველთვიურად უშვებს მწარმოებლებთან თანამშრომლობით, რომ აღმოიფხვრას სისუსტეები, რომელთაც მავნე პროგრამები იყენებენ დაცვის გვერდის ასავლელად და მოწყობილობისთვის გამოუსწორებელი ზიანის მისაყენებლად. შესწორებებს, რომელთაც უზრუნველჰყოფს Google, ყოველთვიურად მიიღებს ყველა მხარდაჭერილი მოწყობილობა, მაგრამ იმ შესწორებების მიღება, რომლებიც დახურულ კოდს შეიცავს, მხოლოდ მოწყობილობის უშუალო მწარმოებლისგან შეიძლება. თქვენი მოწყობილობის უსაფრთხოებისთვის მუდმივად განაახლეთ LineageOS-ანაწყობი და ამასთანავე დარწმუნდით (თუ ესადაგება თქვენს შემთხვევას), რომ მწარმოებლის ის გამოშვებაც უახლესი გაქვთ, რომელსაც მხარს უჭერს LineageOS.</string>
+    <string name="trust_feature_security_patches_explain">უსაფრთხოების შესწორებებს Google ყოველთვიურად უშვებს მწარმოებლებთან თანამშრომლობით, რომ აღმოიფხვრას სისუსტეები, რომელთაც მავნე პროგრამები იყენებენ დაცვის გვერდის ასავლელად და მოწყობილობისთვის გამოუსწორებელი ზიანის მისაყენებლად. შესწორებებს, რომელთაც უზრუნველჰყოფს Google, ყოველთვიურად მიიღებს ყველა მხარდაჭერილი მოწყობილობა, მაგრამ იმ შესწორებების მიღება, რომლებიც დახურულ კოდს შეიცავს, მხოლოდ მოწყობილობის უშუალო მწარმოებლისგან შეიძლება. თქვენი მოწყობილობის უსაფრთხოებისთვის მუდმივად განაახლეთ AxiomOS-ანაწყობი და ამასთანავე დარწმუნდით (თუ ესადაგება თქვენს შემთხვევას), რომ მწარმოებლის ის გამოშვებაც უახლესი გაქვთ, რომელსაც მხარს უჭერს LineageOS.</string>
     <string name="trust_feature_encryption">დაშიფვრა</string>
     <string name="trust_feature_encryption_value_enabled">ჩართული</string>
     <string name="trust_feature_encryption_value_nolock">საჭიროებს ეკრანის დაცულ ჩამკეტს</string>
